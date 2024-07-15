@@ -15,6 +15,7 @@ body {
     background-color: var(--light-gray);
     font-family: "Outfit", sans-serif;
     min-height: 100vh;
+    font-size: 15px;
 }
 /* main & qrcode component */
 main {
@@ -41,7 +42,7 @@ main {
     max-height: 288px;
     border-radius: 0.6rem;
 }
-#component h3 {
+#component h2 {
    margin: 1.2rem 0;
    font-size: 1.375rem;
    color: var(--dark-blue);
